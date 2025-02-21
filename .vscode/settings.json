@@ -1,0 +1,15 @@
+{
+    "editor.wordWrap": "on",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "debug.console.collapseIdenticalLines": false,
+    "debug.console.wordWrap": false,
+    "markdownlint.config": {
+        "MD012": false,
+        "MD013": false,
+        "MD033": false,
+        "MD037": false
+    },
+    "npm.enableRunFromFolder": true
+}

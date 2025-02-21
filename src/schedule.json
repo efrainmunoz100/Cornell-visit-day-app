@@ -1,0 +1,86 @@
+{
+  "day-1": {
+    "date": "3/12",
+    "day": "Sunday",
+    "events": {
+      "event-1": {
+        "event_name": "Arrive In Ithaca",
+        "start_time": "9 pm",
+        "end_time": "6 pm",
+        "location": "Ithaca, NY"
+      },
+      "event-2": {
+        "event_name": "Group Dinner",
+        "start_time": "6 pm",
+        "end_time": "8 pm",
+        "location": "Statler Hotel"
+      }
+    }
+  },
+  "day-2": {
+    "date": "3/13",
+    "day": "Monday",
+    "events": {
+      "event-1": {
+        "event_name": "Breakfast Welcome and Introduction and Program Overview",
+        "start_time": "8 am",
+        "end_time": "9:30 am",
+        "location": "Statler Hotel"
+      },
+      "event-2": {
+        "event_name": "Research Area Discussions",
+        "start_time": "10 am",
+        "end_time": "12 pm",
+        "location": "Gates Hall"
+      },
+      "event-3": {
+        "event_name": "Broadening Participation Lunch",
+        "start_time": "12:30 pm",
+        "end_time": "2 pm",
+        "location": "Statler Hotel"
+      },
+      "event-4": {
+        "event_name": "PhD student panel, Ithaca students",
+        "start_time": "3 pm",
+        "end_time": "5 pm",
+        "location": "Gates Hall"
+      },
+      "event-5": {
+        "event_name": "Group Dinner",
+        "start_time": "6 pm",
+        "end_time": "8 pm",
+        "location": "Statler Hotel"
+      }
+    }
+  },
+  "day-3": {
+    "date": "3/14",
+    "day": "Tuesday",
+    "events": {
+      "event-1": {
+        "event_name": "Hotel Check Out and Group Breakfast",
+        "start_time": "9 am",
+        "end_time": "10 am",
+        "location": "Gates Hall"
+      },
+      "event-2": {
+        "event_name": "campus tour with current Ph.D. students",
+        "start_time": "10:30 am",
+        "end_time": "12:00 pm",
+        "location": ""
+      },
+      "event-3": {
+        "event_name": "Board bus to the Tech campus",
+        "start_time": "1 pm",
+        "end_time": "5 pm",
+        "location": "Outside Statler Hotel"
+      },
+      "event-4": {
+        "event_name": "Arrive in NYC ",
+        "start_time": "5:15 pm",
+        "end_time": "5:30 pm",
+        "location": "Graduate Hotel on Roosevelt Island"
+      }
+    }
+  }
+}

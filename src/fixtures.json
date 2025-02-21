@@ -1,0 +1,960 @@
+{
+  "professors": {
+    "gries": {
+    "name": "David Gries",
+    "img": "gries",
+    "email": "djg17@cornell.edu",
+    "office": "Gates Hall 460",
+    "starred": "False",
+    "campus": "Ithaca",
+    "about": "Gries's main research interests over the years have been on compiler writing, programming methodology, teaching programming, and related subjects. Bringing research advances in programming methodology has been a particular pursuit, and he is proud to have been among the first ten Weiss Presidential Fellows at Cornell.",
+    "interests": ["Mathematics", "Compiler Writing"],
+    "hours": [
+        {
+          "start": 1678716000,
+          "end": 1678723200
+        },
+        {
+          "start": 1678730400,
+          "end": 1678744800
+        },
+        {
+          "start": 1678802400,
+          "end": 1678809600
+        },
+        {
+          "start": 1678816800,
+          "end": 1678831200
+        },
+        {
+          "start": 1678888800,
+          "end": 1678896000
+        },
+        {
+          "start": 1678903200,
+          "end": 1678917600
+        }
+      ]
+    },
+    "clarkson": {
+      "name": "Michael Clarkson",
+      "img": "clarkson",
+      "email": "mrc26@cornell.edu",
+      "office": "Gates Hall 461",
+      "starred": false,
+      "campus": "Ithaca",
+      "about": "Clarkson is known for his open-source textbook on OCaml programming and his accompanying YouTube channel on functional programming, which has received over a quarter million views from around the world. He also teaches courses on object-oriented programming, formal verification, computer security, and data science.",
+      "interests": ["Data Science", "Computer Security"],
+      "hours": [
+        {
+          "start": 1678705200,
+          "end": 1678748400
+        },
+        {
+          "start": 1678791600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678878000,
+          "end": 1678921200
+        }
+      ]
+    },
+    "cleare": {
+      "name": "Sharlane Cleare",
+      "img": "cleare",
+      "email": "ssc294@cornell.edu",
+      "office": "Gates 110F",
+      "starred": false,
+      "campus": "Ithaca",
+      "about": "Sharlane Cleare is a lecturer in Information Science in the School of Computing and Information Science at Cornell University. Her research focuses on broadening STEM participation for underrepresented people of color by understanding how various learning experiences influence their intent to persist in STEM. Her dissertation focused on dissecting Black women’s experiences in a first-year undergraduate human centered design course.",
+      "interests": ["HCI", "Technology & Equity"],
+      "hours": [
+        {
+          "start": 1678705200,
+          "end": 1678748400
+        },
+        {
+          "start": 1678885200,
+          "end": 1678896000
+        }
+      ]
+    },
+    "dell": {
+      "name": "Nichola Dell",
+      "img": "dell",
+      "email": "nixdell@cornell.edu",
+      "office": "Office Unknown",
+      "starred": false,
+      "campus": "New York",
+      "about": "Dell's research interests are in human-computer interaction (HCI), computer security and privacy, and information and communication technologies and development (ICTD). She works to study, build, and deploy sociotechnical systems that improve the lives of underserved communities in the United States and around the world.",
+      "interests": ["HCI", "ICTD"],
+      "hours": [
+        {
+          "start": 1678741200,
+          "end": 1678748400
+        },
+        {
+          "start": 1678827600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678885200,
+          "end": 1678896000
+        },
+        {
+          "start": 1678903200,
+          "end": 1678910400
+        },
+        {
+          "start": 1678914000,
+          "end": 1678921200
+        }
+      ]
+    },
+    "choudhury": {
+      "name": "Tanzeen Choudhury",
+      "img": "choudhury",
+      "email": "tanzeem.choudhury@cornell.edu",
+      "office": "Cornell Tech",
+      "starred": false,
+      "campus": "New York",
+      "about": "Tanzeem Choudhury is a professor at the Jacobs Technion-Cornell Institute at Cornell Tech in Information Sciences. She directs the People-Aware Computing group, which works on developing machine learning techniques for systems that can reason about human activities, interactions, and social networks in everyday environments. As part of her doctoral work, she created the sociometer and conducted the first experiment that uses mobile sensors to model social networks, which led to a new field of research referred to as Reality Mining.",
+      "interests": ["Interface Design", "Ubiquitous Computing"],
+      "hours": [
+        {
+          "start": 1678741200,
+          "end": 1678748400
+        },
+        {
+          "start": 1678827600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678885200,
+          "end": 1678896000
+        },
+        {
+          "start": 1678914000,
+          "end": 1678921200
+        }
+      ]
+    },
+    "zhang": {
+      "name": "Cheng Zheng",
+      "img": "zheng",
+      "email": "cz448@cornell.edu",
+      "office": "Gates Hall 244",
+      "starred": false,
+      "campus": "Ithaca",
+      "about": "Cheng Zhang is an Assistant Professor in Information Science at Cornell University. His research examines how to solicit information on and around the human body to address real-world challenges in various application areas, such as interaction, health sensing, and activity recognition.  He usually builds novel sensing systems from the bottom to the top, including understanding the physical phenomenon, building hardware prototypes, designing form factors, processing data, and designing algorithms (machine learning or physics-based modeling).",
+      "interests": ["HCI", "Ubiquitous Computing", "Interface Design"],
+      "hours": [
+        {
+          "start": 1678741200,
+          "end": 1678748400
+        },
+        {
+          "start": 1678827600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678885200,
+          "end": 1678896000
+        }
+      ]
+    },
+    "cardie": {
+      "name": "Claire Cardie",
+      "img": "cardie",
+      "email": "cardie@cs.cornell.edu",
+      "office": "Office Unknown",
+      "starred": false,
+      "campus": "Ithaca",
+      "about": "Claire Cardie is a Professor in the Departments of Computer Science and Information Science. She has broad interests in Natural Language Processing and was selected as a Fellow of the Association for Computational Linguistics in 2015 for foundational contributions to co-reference resolution, information and opinion extraction, and to machine learning methods in natural language processing.",
+      "interests": ["Natural Language Processing"],
+      "hours": [
+        {
+          "start": 1678741200,
+          "end": 1678748400
+        },
+        {
+          "start": 1678914000,
+          "end": 1678921200
+        }
+      ]
+    },
+    "harms": {
+      "name": "Kyle Harms",
+      "img": "harms",
+      "email": "kyle.harms@cornell.edu",
+      "office": "224 Gates Hall",
+      "starred": false,
+      "campus": "Ithaca",
+      "about": "Kyle Harms is a Lecturer in Information Science at Cornell University. He is primarily interested in human-computer interaction (HCI) and computing education. His research focused on leveraging learning theories to improve novices' ability to learning computer programming independently. Kyle continues to pursue his interest in novice programming, education, and HCI through teaching courses in Information Science.",
+      "interests": ["HCI", "UE Design"],
+      "hours": [
+        {
+          "start": 1678827600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678885200,
+          "end": 1678896000
+        },
+        {
+          "start": 1678914000,
+          "end": 1678921200
+        }
+      ]
+    },
+    "vashistha": {
+      "name": "Aditya Vashistha",
+      "img": "vashistha",
+      "email": "adityav@cornell.edu",
+      "office": "Gates Hall 243",
+      "starred": false,
+      "campus": "Ithaca",
+      "about": "Aditya Vashistha is an Assistant Professor of Information Science at Cornell University. His research focuses on building appropriate computing systems to achieve social good of people in low-resource environments. More broadly, his work lies at the intersection of Human-Computer Interaction (HCI), ICT & Development (ICTD), and Accessibility. His research has transitioned into large-scale, real-world products that have reached an estimated 220,000 people in Africa and South Asia.",
+      "interests": ["HCI", "Technology & Equity", "Social Computing"],
+      "hours": [
+        {
+          "start": 1678741200,
+          "end": 1678748400
+        },
+        {
+          "start": 1678827600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678885200,
+          "end": 1678896000
+        }
+      ]
+    },
+    "nissenbaum": {
+      "name": "Helen Nissenbaum",
+      "img": "nissenbaum",
+      "email": "hn288@cornell.edu",
+      "office": "Cornell Tech",
+      "starred": false,
+      "campus": "New York",
+      "about": "Helen Nissenbaum is Professor of Information Science at Cornell Tech. Her research takes an ethical perspectives on policy, law, science, and engineering relating to information technology, computing, digital media and data science. Topics have included privacy, trust, accountability, security, and values in technology design. Her books include Obfuscation: A User's Guide for Privacy and Protest, with Finn Brunton (MIT Press, 2015) and Privacy in Context: Technology, Policy, and the Integrity of Social Life (Stanford, 2010).",
+      "interests": ["Data Science", "HCI", "Technology & Equity"],
+      "hours": [
+        {
+          "start": 1678827600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678914000,
+          "end": 1678921200
+        }
+      ]
+    },
+    "wang": {
+      "name": "Fei Wang",
+      "img": "wang",
+      "email": "fw83@cornell.edu",
+      "office": "Weill Cornell Medical College",
+      "starred": false,
+      "campus": "New York",
+      "about": "Fei Wang is an associate professor at Department of Population Health Sciences, Weill Cornell Medicine, Cornell University. His major researchinterest is data mining, machine learning and their applications in health data science. Dr. Wang was the chair of the Knowledge Discovery and Data Miningworking group in American Medical Informatics Association (AMIA) in 2018-2019. Dr. Wang’s research has been supported by funding agencies including NSF, NIH, ONR, PCORI and MJFF.",
+      "interests": ["Data Science"],
+      "hours": [
+        {
+          "start": 1678827600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678914000,
+          "end": 1678921200
+        }
+      ]
+    },
+    "fussell": {
+      "name": "Susan Fussell",
+      "img": "fussell",
+      "email": "sfussell@cornell.edu",
+      "office": "226 Gates Hall",
+      "starred": false,
+      "campus": "Ithaca",
+      "about": "Susan Fussell is a Professor in the Department of Communication and the Department of Information Science at Cornell University. Her research focuses on interpersonal communication in face-to-face and computer-mediated contexts. Her goals are to enhance our theoretical understanding of the mechanisms involved in conversational discourse and to apply this theory to the design and evaluation of new communications technologies. Fussell's current research areas include intercultural computer-mediated communication, multi-lingual communication, tools to promote energy saving behavior, human-robot interaction, and collaborative intelligence analysis.",
+      "interests": ["HCI", "Social Computing"],
+      "hours": [
+        {
+          "start": 1678741200,
+          "end": 1678748400
+        },
+        {
+          "start": 1678827600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678885200,
+          "end": 1678896000
+        },
+        {
+          "start": 1678914000,
+          "end": 1678921200
+        }
+      ]
+    }
+
+  },
+  "labs": {
+    "center_for_advanced_computing": {
+      "name": "Center for Advanced Computing",
+      "img": "center_for_advanced_computing",
+      "email": "help@cac.cornell.edu",
+      "office": "Center for Advanced Computing, Rhodes Hall",
+      "starred": "False",
+      "campus": "Ithaca",
+      "about": "The Center for Advanced Computing provides a broad range of services that support the computational research needs of Cornell faculty. The Center’s role is to enable and empower research capabilities and help Cornell’s scientists, researchers, and scholars achieve new and innovative breakthrough research.",
+      "research_area": ["Cloud Computing", "High Powered Computing"],
+      "hours": [
+        {
+          "start": 1678636800,
+          "end": 1678651200
+        },
+        {
+          "start": 1678644000,
+          "end": 1678651200
+        },
+        {
+          "start": 1678716000,
+          "end": 1678723200
+        },
+        {
+          "start": 1678730400,
+          "end": 1678744800
+        },
+        {
+          "start": 1678802400,
+          "end": 1678809600
+        },
+        {
+          "start": 1678816800,
+          "end": 1678831200
+        }
+      ]
+    },
+    "ic3": {
+      "name": "The Initiative for CryptoCurrencies and Contracts",
+      "img": "ic3",
+      "email": "sarahallen@cornell.edu",
+      "office": "215 Bloomberg Center",
+      "starred": "False",
+      "campus": "NYC",
+      "about" : "IC3 is collaborating with domain experts in finance and banking, entrepreneurs, regulators, and open source software communities to move blockchain-based solutions from today's white boards and proof-of-concepts to tomorrow's fast and reliable financial systems of execution and record.",
+      "research_area": ["Cryptocurrency", "Blockchain"],
+      "hours": [
+        {
+          "start": 1678741200,
+          "end": 1678748400
+        },
+        {
+          "start": 1678827600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678885200,
+          "end": 1678896000
+        },
+        {
+          "start": 1678903200,
+          "end": 1678910400
+        },
+        {
+          "start": 1678914000,
+          "end": 1678921200
+        }
+      ]
+    },
+    "virtual_embodiment_lab": {
+      "name": "Virtual Embodiment Lab",
+      "img": "virtual_embodiment_lab",
+      "email": "a.s.won@cornell.edu",
+      "office": "Fourth Floor of Mann Library Building",
+      "starred": "False",
+      "campus": "Ithaca",
+      "about" : "The Virtual Embodiment Lab in the Cornell Communication Department studies embodiment and presence in virtual environments, exploring how changing virtual representations can change people's perceptions and allow them to collaborate, learn, and experience in ways that they can't in the real world.",
+      "research_area": ["Virtual Reality", "Human-Computer Interaction"],
+      "hours": [
+        {
+          "start": 1678716000,
+          "end": 1678834800
+        },
+        {
+          "start": 1678802400,
+          "end": 1678816800
+        }
+      ]
+    },
+    "cornell_social_media_lab": {
+      "name": "Cornell Social Media Lab",
+      "img": "cornell_social_media_lab",
+      "email": "cusocialmedia@gmail.com",
+      "office": "491 Mann Library Building",
+      "starred": "False",
+      "campus": "Ithaca",
+      "about" : "Members of the Cornell Social Media Lab are interested in social behavior and technology, the impact of communication technology on well-being, and developing interventions that encourage prosocial behaviors. Some of our ongoing projects include bystander interventions in social media, digital literacy, content moderation in online communities, mental health and social media, and self-disclosure and privacy on social media and with emerging technologies.",
+      "research_area": ["Human-Computer Interaction", "Social Computing"],
+      "hours": [
+        {
+          "start": 1678705200,
+          "end": 1678723200
+        },
+        {
+          "start": 1678791600,
+          "end": 1678809600
+        },
+        {
+          "start": 1678878000,
+          "end": 1678899600
+        }
+      ]
+    },
+    "scifi_lab": {
+      "name": "Smart Computer Interfaces for Future Interactions (SciFi) Lab",
+      "img": "scifi_lab",
+      "email": "chengzhang@cornell.edu",
+      "office": "107 Hoy Rd",
+      "starred": "False",
+      "campus": "Ithaca",
+      "about" : "The Smart Computer Interfaces for Future Interactions (SciFi) Lab at Cornell University designs, develops, and evaluates intelligent sensing systems, with an emphasis on wearable forms, to facilitate natural and novel information exchange between humans, computers, and the environment.",
+      "research_area": ["Human-Computer Interaction"],
+      "hours": [
+        {
+          "start": 1678629600,
+          "end": 1678640400
+        },
+        {
+          "start": 1678716000,
+          "end": 1678726800
+        }
+      ]
+    },
+    "people_aware_computing_lab": {
+      "name": "People-Aware Computing Lab",
+      "img": "people_aware_computing",
+      "email": "tanzeem.choudhury@cornell.edu",
+      "office": "Bloomberg Center, Roosevelt Island",
+      "starred": "False",
+      "campus": "NYC",
+      "about" : "The People-Aware Computing group develops mobile sensing systems for capturing, learning, and interpreting people's context, activities and social networks. We are building applications that improve people's well-being and quality of life.",
+      "research_area": ["Social Computing", "Human-Computer Interaction"],
+      "hours": [
+        {
+          "start": 1678712400,
+          "end": 1678737600
+        },
+        {
+          "start": 1678798800,
+          "end": 1678824000
+        }
+      ]
+    },
+    "program_of_computer_graphics": {
+      "name": "Program of Computer Graphics",
+      "img": "program_of_computer_graphics",
+      "email": "pcg-info@graphics.cornell.edu",
+      "office": "580 Rhodes Hall",
+      "starred": "False",
+      "campus": "Ithaca",
+      "about": "The Program of Computer Graphics at Cornell University is an inter-disciplinary center dedicated to the development of interactive computer graphics techniques and the use of these techniques in a variety of applications.",
+      "research_area": ["Computer Graphics", "Virtual Reality"],
+      "hours": [
+        {
+          "start": 1678705200,
+          "end": 1678748400
+        },
+        {
+          "start": 1678791600,
+          "end": 1678834800
+        },
+        {
+          "start": 1678878000,
+          "end": 1678921200
+        }
+      ]
+    },
+    "social_technologies_lab": {
+      "name": "Social Technologies Lab",
+      "img": "social_technologies_lab",
+      "email": "mor.naaman@cornell.edu",
+      "office": "2 W Loop Rd New York, NY",
+      "starred": "False",
+      "campus": "NYC",
+      "about" : "The Social Technologies Lab at Cornell Tech designs, builds, and studies social systems focusing on topics related to Technology, Media and Democracy. We use a variety of methods, from machine learning and data science to online experiments and qualitative user interviews to understand how we can build a trustworthy information ecosystem.",
+      "research_area": ["Social Computing"],
+      "hours": [
+        {
+          "start": 1678712400,
+          "end": 1678744800
+        },
+        {
+          "start": 1678809600,
+          "end": 1678831200
+        }
+      ]
+    },
+    "robots_in_groups_lab": {
+      "name": "Robots in Groups Lab",
+      "img": "robots_in_groups_lab",
+      "email": "mfj28@cornell.edu",
+      "office": "343 Campus Rd, Room 220",
+      "starred": "False",
+      "campus": "Ithaca",
+      "about" : "The Robots in Groups (RIG) lab explores social and technical issues surrounding the placement of robots within groups and teams, seeking to contribute to our basic understanding of group dynamics and how group dynamics can be shaped by robots implicitly and by design.",
+      "research_area": ["Human-Robot Interaction", "Social Computing"],
+      "hours": [
+        {
+          "start": 1678629600,
+          "end": 1678647600
+        },
+        {
+          "start": 1678723200,
+          "end": 1678748400
+        }
+      ]
+    },
+    "hrc2": {
+      "name": "Human-Robot Collaboration & Companionship Lab",
+      "img": "hrc2",
+      "email": "hoffman@cornell.edu",
+      "office": "Upson 562, 124 Hoy Rd.",
+      "starred": "False",
+      "campus": "Ithaca",
+      "about" : "The Human-Robot Collaboration & Companionship (HRC2) Lab at Cornell is headed by Guy Hoffman and studies the computational, engineering, and social aspects of interactions between humans and robots. The Lab's mission is to understand the complex interplay between human behaviors, attitudes, and needs & personal robotic technologies in order to design robots that best support human values.",
+      "research_area": ["Human-Robot Interaction"],
+      "hours": [
+        {
+          "start": 1678644000,
+          "end": 1678658400
+        },
+        {
+          "start": 1678636800,
+          "end": 1678644000
+        },
+        {
+          "start": 1678716000,
+          "end": 1678730400
+        },
+        {
+          "start": 1678802400,
+          "end": 1678816800
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "Welcome to Cornell University's Information Science PhD Visit Day!",
+    "text": "Visit Day is your opportunity to meet with faculty members, explore the Ithaca and Cornell Tech campuses, and find out more about information science research at Cornell. In between scheduled group itinerary events, reach out to professors working in fields of interest or drop by a lab to see what current students are up to!",
+    "reimbursement-title":"Reimbursement Process",
+    "reimbursement-text":"In order to receive reimbursement for travel expenses up to a certain limit, fill out the form below. Note that itemized receipts may be required and that this form is the only reimbursement method approved by Cornell, so prepare to keep track of your expenses during your time at Visit Day."
+  },
+  "schedule": {
+    "day_1": {
+      "date": "Sun 3/12",
+      "events": [{
+          "name": "Arrive In Ithaca",
+          "start": "2 pm",
+          "end": "6 pm",
+          "location": "Ithaca, NY"
+        },
+        {
+          "name": "Group Dinner",
+          "start": "6 pm",
+          "end": "8 pm",
+          "location": "Statler Hotel Ballroom"
+        }
+      ]
+    },
+    "day_2": {
+      "date": "Mon 3/13",
+      "events": [{
+          "name": "Breakfast Welcome & Program Overview",
+          "start": "8 am",
+          "end": "9:30 am",
+          "location": "Statler Hotel"
+        },
+        {
+          "name": "Research Area Discussions",
+          "start": "10 am",
+          "end": "12 pm",
+          "location": "Gates Hall"
+        },
+        {
+          "name": "Broadening Participation Lunch",
+          "start": "12:30 pm",
+          "end": "2 pm",
+          "location": "Statler Hotel"
+        },
+        {
+          "name": "PhD Student Panel, Ithaca students",
+          "start": "3 pm",
+          "end": "5 pm",
+          "location": "Gates Hall"
+        },
+        {
+          "name": "Group Dinner",
+          "start": "6 pm",
+          "end": "8 pm",
+          "location": "Statler Hotel"
+        }
+      ]
+    },
+    "day_3": {
+      "date": "Tue 3/14",
+      "events": [
+        {
+          "name": "Hotel Check Out & Group Breakfast",
+          "start": "9 am",
+          "end": "10 am",
+          "location": "Gates Hall"
+        },
+        {
+          "name": "Campus Tour with Current Ph.D. Students",
+          "start": "10:30 am",
+          "end": "12:00 pm",
+          "location": ""
+        },
+        {
+          "name": "Board Bus to the Tech Campus",
+          "start": "1 pm",
+          "end": "5 pm",
+          "location": "Outside Statler Hotel"
+        },
+        {
+          "name": "Arrive in NYC",
+          "start": "5:15 pm",
+          "end": "5:30 pm",
+          "location": "Graduate Hotel on Roosevelt Island"
+        }
+      ]
+    }
+  },
+  "timeFilterOptions": [
+    [
+      {
+        "label": "Sun, Mar 12",
+        "value": "2023-03-12"
+      },
+      {
+        "label": "Mon, Mar 13",
+        "value": "2023-03-13"
+      },
+      {
+        "label": "Tue, Mar 14",
+        "value": "2023-03-14"
+      },
+      {
+        "label": "Wed, Mar 15",
+        "value": "2023-03-15"
+      }
+    ],
+    [
+      {
+        "label": "1",
+        "value": "1"
+      },
+      {
+        "label": "2",
+        "value": "2"
+      },
+      {
+        "label": "3",
+        "value": "3"
+      },
+      {
+        "label": "4",
+        "value": "4"
+      },
+      {
+        "label": "5",
+        "value": "5"
+      },
+      {
+        "label": "6",
+        "value": "6"
+      },
+      {
+        "label": "7",
+        "value": "7"
+      },
+      {
+        "label": "8",
+        "value": "8"
+      },
+      {
+        "label": "9",
+        "value": "9"
+      },
+      {
+        "label": "10",
+        "value": "10"
+      },
+      {
+        "label": "11",
+        "value": "11"
+      },
+      {
+        "label": "12",
+        "value": "12"
+      }
+    ],
+    [
+      {
+        "label": "00",
+        "value": "00"
+      },
+      {
+        "label": "01",
+        "value": "01"
+      },
+      {
+        "label": "02",
+        "value": "02"
+      },
+      {
+        "label": "03",
+        "value": "03"
+      },
+      {
+        "label": "04",
+        "value": "04"
+      },
+      {
+        "label": "05",
+        "value": "05"
+      },
+      {
+        "label": "06",
+        "value": "06"
+      },
+      {
+        "label": "07",
+        "value": "07"
+      },
+      {
+        "label": "08",
+        "value": "08"
+      },
+      {
+        "label": "09",
+        "value": "09"
+      },
+      {
+        "label": "10",
+        "value": "10"
+      },
+      {
+        "label": "11",
+        "value": "11"
+      },
+      {
+        "label": "12",
+        "value": "12"
+      },
+      {
+        "label": "13",
+        "value": "13"
+      },
+      {
+        "label": "14",
+        "value": "14"
+      },
+      {
+        "label": "15",
+        "value": "15"
+      },
+      {
+        "label": "16",
+        "value": "16"
+      },
+      {
+        "label": "17",
+        "value": "17"
+      },
+      {
+        "label": "18",
+        "value": "18"
+      },
+      {
+        "label": "19",
+        "value": "19"
+      },
+      {
+        "label": "20",
+        "value": "20"
+      },
+      {
+        "label": "21",
+        "value": "21"
+      },
+      {
+        "label": "22",
+        "value": "22"
+      },
+      {
+        "label": "23",
+        "value": "23"
+      },
+      {
+        "label": "24",
+        "value": "24"
+      },
+      {
+        "label": "25",
+        "value": "25"
+      },
+      {
+        "label": "26",
+        "value": "26"
+      },
+      {
+        "label": "27",
+        "value": "27"
+      },
+      {
+        "label": "28",
+        "value": "28"
+      },
+      {
+        "label": "29",
+        "value": "29"
+      },
+      {
+        "label": "30",
+        "value": "30"
+      },
+      {
+        "label": "31",
+        "value": "31"
+      },
+      {
+        "label": "32",
+        "value": "32"
+      },
+      {
+        "label": "33",
+        "value": "33"
+      },
+      {
+        "label": "34",
+        "value": "34"
+      },
+      {
+        "label": "35",
+        "value": "35"
+      },
+      {
+        "label": "36",
+        "value": "36"
+      },
+      {
+        "label": "37",
+        "value": "37"
+      },
+      {
+        "label": "38",
+        "value": "38"
+      },
+      {
+        "label": "39",
+        "value": "39"
+      },
+      {
+        "label": "40",
+        "value": "40"
+      },
+      {
+        "label": "41",
+        "value": "41"
+      },
+      {
+        "label": "42",
+        "value": "42"
+      },
+      {
+        "label": "43",
+        "value": "43"
+      },
+      {
+        "label": "44",
+        "value": "44"
+      },
+      {
+        "label": "45",
+        "value": "45"
+      },
+      {
+        "label": "46",
+        "value": "46"
+      },
+      {
+        "label": "47",
+        "value": "47"
+      },
+      {
+        "label": "48",
+        "value": "48"
+      },
+      {
+        "label": "49",
+        "value": "49"
+      },
+      {
+        "label": "50",
+        "value": "50"
+      },
+      {
+        "label": "51",
+        "value": "51"
+      },
+      {
+        "label": "52",
+        "value": "52"
+      },
+      {
+        "label": "53",
+        "value": "53"
+      },
+      {
+        "label": "54",
+        "value": "54"
+      },
+      {
+        "label": "55",
+        "value": "55"
+      },
+      {
+        "label": "56",
+        "value": "56"
+      },
+      {
+        "label": "57",
+        "value": "57"
+      },
+      {
+        "label": "58",
+        "value": "58"
+      },
+      {
+        "label": "59",
+        "value": "59"
+      }
+    ],
+    [
+      {
+        "label": "AM",
+        "value": "AM"
+      },
+      {
+        "label": "PM",
+        "value": "PM"
+      }
+    ]
+  ]
+}

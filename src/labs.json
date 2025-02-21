@@ -1,0 +1,95 @@
+{
+  "center_for_advanced_computing": {
+    "name": "Center for Advanced Computing",
+    "img": "center_for_advanced_computing",
+    "email": "help@cac.cornell.edu",
+    "office": "Center for Advanced Comuting, Rhodes Hall",
+    "starred": "False",
+    "campus": "Ithaca",
+    "research_area": ["Cloud Computing", "High Powered Computing"],
+    "hours": [
+      {
+        "start": 1678716000,
+        "end": 1678723200
+      },
+      {
+        "start": 1678716000,
+        "end": 1678723200
+      },
+      {
+        "start": 1678730400,
+        "end": 1678744800
+      },
+      {
+        "start": 1678802400,
+        "end": 1678809600
+      },
+      {
+        "start": 1678816800,
+        "end": 1678831200
+      },
+      {
+        "start": 1678888800,
+        "end": 1678896000
+      },
+      {
+        "start": 1678903200,
+        "end": 1678917600
+      }
+    ]
+  },
+  "program_of_computer_graphics": {
+    "name": "Program of Computer Graphics",
+    "img": "program_of_computer_graphics",
+    "email": "pcg-info@graphics.cornell.edu",
+    "office": "580 Rhodes Hall",
+    "starred": "False",
+    "campus": "Ithaca",
+    "research_area": ["Computer Graphics", "VR"],
+    "hours": [
+      {
+        "start": 1678705200,
+        "end": 1678748400
+      },
+      {
+        "start": 1678791600,
+        "end": 1678834800
+      },
+      {
+        "start": 1678878000,
+        "end": 1678921200
+      }
+    ]
+  },
+  "ic3": {
+    "name": "The Initiative for CryptoCurrencies and Contracts",
+    "img": "ic3",
+    "email": "sarahallen@cornell.edu",
+    "office": "215 Bloomberg Center",
+    "starred": "False",
+    "campus": "NYC",
+    "research_area": ["Cryptocurrency", "Blockchain"],
+    "hours": [
+      {
+        "start": 1678741200,
+        "end": 1678748400
+      },
+      {
+        "start": 1678827600,
+        "end": 1678834800
+      },
+      {
+        "start": 1678885200,
+        "end": 1678896000
+      },
+      {
+        "start": 1678903200,
+        "end": 1678910400
+      },
+      {
+        "start": 1678914000,
+        "end": 1678921200
+      }
+    ]
+  }
+}

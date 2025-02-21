@@ -1,0 +1,43 @@
+@import './base.css';
+
+main {
+  padding: 2rem;
+  /* margin: 0 auto; */
+  font-weight: normal;
+  max-width: 1280px;
+  padding-bottom: 5rem;
+}
+
+#nav-container {
+  padding: 0;
+}
+
+#nav-container > .container-fluid {
+  padding: 0;
+  height: 100%;
+}
+
+#nav-container a {
+  height: 4em;
+}
+
+#detail-photo .card-img {
+  max-width: 40%;
+  min-width: 30%;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: auto;
+
+}
+
+#detail-photo.card {
+  margin-top: 2em;
+  border: none;
+  background-color: transparent;
+}
+
+#top-nav {
+  position: sticky;
+}
